@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Ce projet a été créé dans le but de me familiariser de certains langages, outils et bibliothèques comme material ui et chakra ui, Redux, React, Javascript...
+Ce projet a été créé dans le but de me familiariser avec certains langages, outils et bibliothèques comme material ui et chakra ui, Redux, React, Javascript...
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
